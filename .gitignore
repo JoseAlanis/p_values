@@ -2,3 +2,5 @@
 .DS_Store
 
 snippeds.ipynb
+
+.ipynb_checkpoints/
